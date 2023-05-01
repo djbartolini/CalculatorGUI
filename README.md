@@ -2,10 +2,14 @@
 This is a simple calculator app built in Java using the Swing library. The app allows users to perform basic arithmetic operations (addition, subtraction, multiplication, and division) on two operands.
 
 ## Features
-- Addition, subtraction, multiplication, and division of two operands
+- Support for:
+  - Arithmetic operations (add, subtract, multiply, divide)
+  - Percentage
+  - Exponentiation
+  - Square root
+  - Natural logarithm
 - Ability to clear the current calculation
 - Ability to change the sign of the current operand
-- Ability to calculate percentages
 - Support for decimal numbers
 
 ## Demo
@@ -21,10 +25,9 @@ To run the calculator app, you will need to have Java 8 or later installed on yo
 
 ## Usage
 - Click on the number buttons to enter operands
-- Click on the operation buttons (+, -, *, /) to select the operation to perform
+- Click on the operation buttons to select the operation to perform
 - Click on the equal button (=) to perform the calculation
 - Click on the clear button (C) to clear the current calculation
-- Click on the sign button (+/-) to change the sign of the current operand
 - Click on the percentage button (%) to calculate the percentage of the current operand
 - Click on the decimal button (.) to enter a decimal point
 
