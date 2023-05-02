@@ -15,7 +15,7 @@ This is a simple calculator app built in Java using the Swing library. The app a
 - 2 themes - Light Mode and Dark Mode
 
 ## Demo
-![demo](public/demo.png)
+![demo](public/calculator-demo.gif)
 
 ## Getting started
 To run the calculator app, you will need to have Java 8 or later installed on your computer. Follow these steps to run the app:
